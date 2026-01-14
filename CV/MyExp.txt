@@ -1,2 +1,1 @@
-intitulé du job, nom de l'entreprise, année de début, fin de contrat
 PROJET : Refonte du visuel
